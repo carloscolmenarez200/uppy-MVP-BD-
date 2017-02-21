@@ -1,0 +1,48 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.developers.carlos.uppy.mascota_perfil.MascotaPerfilFragment">
+
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:id="@+id/img_miMascota"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/yo"
+        app:civ_border_color="@color/colorAccent"
+        app:civ_border_width="4dp"
+        app:civ_shadow="false"
+        app:civ_shadow_radius="5"
+        app:civ_shadow_color="#8BC34A"/>
+    <TextView
+        android:layout_below="@+id/img_miMascota"
+        android:id="@+id/tv_nombre_perfil"
+        android:layout_centerHorizontal="true"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="@string/acercaDe_nombre"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Medium"
+        />
+    <ImageView
+        android:id="@+id/img_linea"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/linea"
+        android:layout_below="@+id/tv_nombre_perfil"
+        android:src="@android:drawable/divider_horizontal_bright"
+        android:scaleType="fitXY"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@+id/img_linea"
+        android:scrollbars="vertical"
+        android:id="@+id/mi_recycler_perfil"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

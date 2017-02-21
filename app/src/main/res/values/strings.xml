@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="str_bienvenido">Bienvenido toque para entrar</string>
+    <string name="str_btn_entrar">Entrar</string>
+    <string name="title_activity_main">Petagram</string>
+    <string name="title_activity_favoritos">Favoritos</string>
+    <string name="title_activity_contacto">Contacto</string>
+    <string name="title_activity_acerca_de">Acerca de</string>
+
+    <!-- TODO: string de formularios -->
+    <string name="form_nombre">Ingresa tu nombre</string>
+    <string name="form_email">Ingresa tu correo</string>
+    <string name="form_mensaje">Ingresa tu mensaje</string>
+    <string name="btn_enviar">Enviar</string>
+
+    <string name="acercaDe_nombre">Carlos Colmenarez</string>
+    <string name="acercaDe_correo">CarlosColmenarez200@gmail.com</string>
+    <string name="acercaDe_telefono">+584127920345</string>
+
+
+    <!-- TODO: string de menus -->
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acercaDe">Acerca de</string>
+    <string name="menu_favoritos">Favoritos</string>
+
+    <!-- TODO: mensajes toast email-->
+    <string name="email_exito">Mensaje enviado</string>
+    <string name="email_fallido">Ha ocurrido un error inesperado</string>
+
+</resources>

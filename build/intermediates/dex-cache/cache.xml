@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_c088246228b5e1cf37b47ad3f36e9008c0b68b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/mail_09f4279981e25620a45c468b423190f3120c3560.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a24e01ca5591bc7c38775ce6f6d50c5cda8d29f8">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/instant-run_b3429926182afb475e464d7590c7398235ac683d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/additionnal_0f5c523eef4dc83cc8e49c1cd79a6af53dbc05ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_9795eb21dc653abbf1b5b68f8c79ada41f971adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/activation_b50cc41f46dfdc14545a5432c312b6ada97e5932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_509536de261fd64e05d43979b4d2122abb4d7f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_c37e6dea1f285f2ecee19c4a9911a84aa4e48669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_2930d2eae462fefb7bde6a05e8a0a019cec8353a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_7534e4c5df5d214de015d01081b5b2d2d5cf0663.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_d451edf8285674cc2e64e3d2f33ed5caf9f62792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/additionnal_0e44d5935c3b11636c71aed20c56ce2e8ef4e6ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/mail_3bd1323fc15300225d08f6520b1f5202ee9349c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5324e2821b49408018398f4fa6d4ee18f2c5ab75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_df1ee8efd4b739427cfbbcbf57ab386f6f16c7d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a625dfdf53f642ec2fea6ceb7460a5c7d5723e47">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_78e4307f827b39d9924eb74bcff13b507f92097e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_3e3c4986310ce8af68e99ead5d5717a7c3029f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_0b7aec4eb383d23b7097e35f6cea5fc126fa984d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_a1bb164686fedbc508d0c318239d0d0de589b2bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f00f2c3ff494eab96e13374b723c2b88e26ed4e2">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_117d48849233bf06db945876a150796f8d522530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.mikhaellopez-circularimageview-3.0.2_2a22d2d8f8e46ee45fa1fcd5a6f742fe05ee0b98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/Android/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_5853f6c44991e0fed7730d339cedda512b11b9ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.mikhaellopez-circularimageview-3.0.2_c5da3776e7d1f8ba52aef1ab381c1f00a2cde531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_1b115c3a44e7df447123a6d445c175660597a0d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_a3f858f589356a99a0a8e1ee4d9e87b5371e5226.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/activation_adba70e0c9a529e008f9147a1fd409357c344e8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/glide-3.6.0_59fa2dcda10bde2c97fd0ed1a4e5d30292a139d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70fc31a67df654333d22c75ef9aa2b81c51fe110">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/instant-run_9ca924117d6a45d6c5a6b81dbc0be5b42c119433.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_ff1a937a4fb570e9e0db243d9ce7dc7f17d98ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/carlos/AndroidStudioProjects/uppy (MVP+BD)/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_a1f35d2427747e18b06657cb04d5b81a9775b353.jar" />
+    </item>
+
+</items>
